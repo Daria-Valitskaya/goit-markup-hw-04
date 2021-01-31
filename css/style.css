@@ -239,10 +239,10 @@ img {
   border-radius: 50%;
 }
 
-.follow-footer .social-link-link:hover,
+/* .follow-footer .social-link-link:hover,
 .follow-footer .social-link-link:focus {
   background-color: var(--focus-color);
-}
+} */
 
 /*=======studio======*/
 /*=======hero=======*/
